@@ -35,8 +35,7 @@ chmod +x make.sh
 
 On windows: 
 
-Copy the allegro DLLs into the same folder as allegro-test.exe
-Double-click allegro-test.exe
+Copy the allegro DLLs into the same folder as allegro-test.exe then double-click allegro-test.exe
 
 On Raspberry Pi:
 ```
