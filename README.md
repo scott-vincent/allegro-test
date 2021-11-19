@@ -39,8 +39,8 @@ Copy the allegro DLLs into the same folder as allegro-test.exe
 Double-click allegro-test.exe
 
 On Raspberry Pi:
-
+```
 cd allegro-test
 chmod +x allegro-test
 ./allegro-test
-  
+```
