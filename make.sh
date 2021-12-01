@@ -1,4 +1,4 @@
 echo Building allegro_test
 cd allegro_test
-g++ -lallegro -lallegro_image -lallegro_font -o allegro_test allegro_test.cpp || exit
+g++ allegro_test.cpp -lallegro -lallegro_image -lallegro_font -o allegro_test || exit
 echo Done
