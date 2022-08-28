@@ -22,7 +22,7 @@ git clone https//github.com/scott-vincent/allegro-test
 
 # Build
 
-On windows, install Microsoft Visual Studio Community Edition, open the allegro_test.sln file and build the project.
+On windows, install Microsoft Visual Studio 2022 Community Edition, open the allegro_test.sln file and build the project.
 
 On Raspberry Pi, use the make.sh script:
 ```
