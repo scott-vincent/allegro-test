@@ -17,7 +17,7 @@ sudo apt install git
 
 Clone the source code from my repository by running the following command:
 ```
-git clone https//github.com/scott-vincent/allegro-test
+git clone https://github.com/scott-vincent/allegro-test
 ```
 
 # Build
